@@ -1,2 +1,2 @@
 # Banka-Otomasyon-Projesi
-Bu proje c#'ta yazıldı.
+Bu proje c#'ta geliştirildi.
