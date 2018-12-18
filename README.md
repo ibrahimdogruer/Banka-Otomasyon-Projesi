@@ -1,2 +1,3 @@
 # Banka-Otomasyon-Projesi
-Bu proje c#'ta geliştirildi.
+
+This bank automation project was developed in c#.
